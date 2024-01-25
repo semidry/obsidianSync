@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "ebbf64d7ee6b69ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b5f4fed0256204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e548ca2349c2680c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新建/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a298c670f36a09d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a46fcc62c3fea24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新建/图书馆.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e444ae27c84ba116",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b8d829696199acfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3749546cd04685",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "新建/图书馆.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "f7d6b1348dbf2071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/考研/数据结构.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1b6c9621afa62c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bacd9bb3aa182d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "66ab238a5fe49ce0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c8da02a0b56992c6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7e254a09d0029c2f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "bd95170a8af4ea4f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7ffba0c7335bc7d8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79bfbedeb8060fb0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "新建/图书馆.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4768aeb6aa7717b7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "新建/图书馆.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "03f2b8f2f5c38559",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "新建/图书馆.md"
+          }
+        }
+      },
+      {
+        "id": "1811b8f3706716ba",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "a46fcc62c3fea24f",
+  "lastOpenFiles": [
+    "笔记/考研/数据结构.md",
+    "日志/日记/2023-09-30.md",
+    "日志/日记/2023-09-29.md",
+    "日志/日记/2023-09-26.md",
+    "日志/日记/2023-09-09.md",
+    "日志/日记/2023-09-25.md",
+    "笔记/考研/政治.md",
+    "日志/日记/2023-09-24.md",
+    "日志/日记/2023-09-23.md",
+    "新建/英文自我介绍GPT.md",
+    "新建/英文自我介绍2.md",
+    "新建/自我介绍2.md",
+    "日志/日记/2023-09-22.md",
+    "未命名",
+    "新建/自我介绍.md",
+    "新建/英文自我介绍.md",
+    "新建/未命名.md",
+    "日志/日记/2023-09-04.md",
+    "日志/日记/2023-09-03.md",
+    "日志/日记/2023-09-01.md",
+    "日志/日记/2023-08-31.md",
+    "日志/日记/2023-08-30.md",
+    "日志/日记/2023-08-29.md",
+    "日志/日记/2023-08-28.md",
+    "日志/日记/2023-08-27.md",
+    "日志/日记/2023-08-24.md",
+    "日志/日记/2023-08-25.md",
+    "附件/文件/Apple_logo_black.svg",
+    "项目/汇编与接口技术课程设计",
+    "项目/计算机组成原理课程设计",
+    "![[{{fileName}}",
+    "笔记/{{fileName}}/随笔_20230818181155.jpg",
+    "笔记/{{fileName}}",
+    "笔记/附件/随笔_20230818181019.jpg",
+    "笔记/附件/随笔--2023-08-18-180756.jpg",
+    "笔记/附件",
+    "2023-08-18 18_08_91--2023-08-18-180347.jpg",
+    "微信图片_20230313235534.jpg",
+    "存档",
+    "笔记",
+    "项目",
+    "资料"
+  ]
+}

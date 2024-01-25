@@ -1,0 +1,5 @@
+{
+  "folder": "日志/时间戳",
+  "template": "附件/模板/时间戳",
+  "format": "YYYY-MM-DD HH_mm_ss"
+}

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ebbf64d7ee6b69ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b5f4fed0256204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5f688c80cbdae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/考研/数据结构.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e444ae27c84ba116",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1b6c9621afa62c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bacd9bb3aa182d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "66ab238a5fe49ce0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c8da02a0b56992c6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7e254a09d0029c2f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b62a4ab923a15257",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "7ffba0c7335bc7d8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79bfbedeb8060fb0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "笔记/考研/数据结构.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4768aeb6aa7717b7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "笔记/考研/数据结构.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "03f2b8f2f5c38559",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "笔记/考研/数据结构.md"
+          }
+        }
+      },
+      {
+        "id": "1811b8f3706716ba",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "4a5f688c80cbdae5",
+  "lastOpenFiles": [
+    "新建/未命名.md",
+    "新建/自我介绍2.md",
+    "新建/自我介绍.md",
+    "新建/英文自我介绍GPT.md",
+    "新建/英文自我介绍2.md",
+    "新建/英文自我介绍.md",
+    "新建/123.md",
+    "新建/未命名 1.md",
+    "项目/计算机组成原理课程设计/任务书.md",
+    "项目/汇编与接口技术课程设计/任务书.md",
+    "日志/时间戳/2023-08-22 00_48_29.md",
+    "日志/日记/2023-09-03.md",
+    "日志/日记/2023-09-01.md",
+    "日志/日记/2023-08/2023-08-17.md",
+    "归档/未命名 1.md",
+    "附件/资料/未命名 1.md",
+    "附件/文件/Apple_logo_black.svg",
+    "笔记/白板/新建.canvas",
+    "笔记/考研/数据结构.md",
+    "日志/日记/2023-11-11.md",
+    "日志/日记/2023-11-26.md",
+    "日志/日记/2023-11-09.md",
+    "日志/日记/2023-08-24.md",
+    "日志/日记/2023-08-23.md",
+    "日志/日记/2023-08-22.md",
+    "日志/日记/2023-08-17.md",
+    "日志/日记/2023-08-21.md",
+    "项目/汇编与接口技术课程设计",
+    "项目/计算机组成原理课程设计",
+    "日志/日记/2023-08-20.md",
+    "![[{{fileName}}",
+    "笔记/{{fileName}}/随笔_20230818181155.jpg",
+    "笔记/{{fileName}}",
+    "笔记/附件/随笔_20230818181019.jpg",
+    "笔记/附件/随笔--2023-08-18-180756.jpg",
+    "笔记/附件",
+    "2023-08-18 18_08_91--2023-08-18-180347.jpg",
+    "微信图片_20230313235534.jpg",
+    "存档",
+    "笔记",
+    "项目",
+    "资料",
+    "附件"
+  ]
+}

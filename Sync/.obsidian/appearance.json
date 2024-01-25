@@ -1,0 +1,13 @@
+{
+  "accentColor": "#8a5cf5",
+  "theme": "moonstone",
+  "interfaceFontFamily": "苹方-简",
+  "textFontFamily": "苹方-简",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": true,
+  "cssTheme": "GitHub Theme",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "baseFontSize": 15
+}
