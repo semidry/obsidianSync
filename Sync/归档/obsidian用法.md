@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 note
 > [!NOTE] Title
 > Contents

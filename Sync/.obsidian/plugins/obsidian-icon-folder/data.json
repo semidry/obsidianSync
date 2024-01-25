@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "FabJava",
       "LiDivideSquare",
       "SiSpring",
       "SiWolfram",
@@ -29,8 +30,7 @@
       "RiAttachment2",
       "TiJetpack",
       "SiGooglecontaineroptimizedos",
-      "LiLibrary",
-      "TiArrowsDoubleSwNe"
+      "LiLibrary"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
@@ -94,5 +94,6 @@
   "笔记/算法与数据结构/题目收藏/算法/广度优先搜索": "FasB",
   "笔记/算法与数据结构/题目收藏/算法/数学": "SiWolfram",
   "笔记/SpringBoot": "SiSpring",
-  "笔记/算法与数据结构/题目收藏/算法/分治": "LiDivideSquare"
+  "笔记/算法与数据结构/题目收藏/算法/分治": "LiDivideSquare",
+  "笔记/Java": "FabJava"
 }

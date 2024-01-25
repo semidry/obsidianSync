@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ```dataview
 list
 from "笔记"

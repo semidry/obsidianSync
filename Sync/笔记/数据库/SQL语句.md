@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### SQL 语句主要分为哪些类别
 SQL 语句可分为以下几类：
 - 数据定义语言 DDL（Data Definition Language）：例如 `CREATE`，`DROP`，`ALTER` 等，对逻辑结构等有操作的，其中包括表结构，视图和索引。

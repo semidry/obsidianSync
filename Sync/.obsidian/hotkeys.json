@@ -303,5 +303,13 @@
       ],
       "key": "K"
     }
+  ],
+  "digitalgarden:dg-mark-note-for-publish": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }

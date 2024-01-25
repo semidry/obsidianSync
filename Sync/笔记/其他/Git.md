@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Pasted image 20240112112117.png]]
 ### 理解 git 工作区域
 根据 git 的几个文件存储区域，git 的工作区域可以划分为 4 个：

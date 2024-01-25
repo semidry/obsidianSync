@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### 配置阿里源
 在 `build.gradle.kts` 文件中，使用阿里云的 Maven 镜像。确保在 `repositories` 部分添加以下内容：
 ```kotlin

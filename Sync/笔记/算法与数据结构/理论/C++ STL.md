@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # STL主要容器
 ## vector<元素类型>
 

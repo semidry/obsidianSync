@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Redis 缓存的特点
 作为一个高性能的 Key-Value 数据库，Redis 与其他 Key-Value 缓存产品相比，有以下三个特点：
 - Redis 运行在内存中但是可以 持久化到磁盘，重启的时候可以再次加载进行使用。
